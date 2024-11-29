@@ -19,7 +19,7 @@
 
 > "Code is poetry in motion, and every project is an opportunity to create something extraordinary." 
 
-### 🌈 Who am I?
+### 👑Who am I?
 - 🎓 Software Engineering Maverick
 - 🌍 Based in Accra, Ghana
 - 🚀 Turning caffeine into code since 2022

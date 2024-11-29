@@ -13,6 +13,7 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
+![Visual Basic](https://img.shields.io/badge/-Visual_basics-black?style=flat-square&logo=Visual_basics)
 
 ## 💡 About Me
 

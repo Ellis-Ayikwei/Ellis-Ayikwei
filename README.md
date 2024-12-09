@@ -1,6 +1,6 @@
  🚀 Ellis Armah Ayikwei | Full-Stack Software Engineer 💻
 
-![Profile Banner](https://github.com/Ellis-Ayikwei/Ellis-Ayikwei/blob/main/banner.png)
+![Profile Banner](https://github.com/Ellis-Ayikwei/Ellis-Ayikwei/blob/main/IMG_7672.JPG)
 
 ## 🌟 Quick Snapshot
 

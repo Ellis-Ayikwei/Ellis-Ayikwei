@@ -9,17 +9,20 @@
 **A versatile Software Engineer bridging innovation and technology, transforming complex challenges into elegant digital solutions.**
 
 ### 🔥 Tech Arsenal
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)  
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)  
-![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)  
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)  
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)  
-![Visual Basic](https://img.shields.io/badge/-Visual_Basic-black?style=flat-square&logo=Visual_Basic)  
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)  
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)  
-![Bash Scripting](https://img.shields.io/badge/-Bash_Scripting-black?style=flat-square&logo=gnu-bash)  
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) 
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" alt="React" />
+  <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter" alt="Flutter" />
+  <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" alt="Docker" />
+  <img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws" alt="AWS" />
+  <img src="https://img.shields.io/badge/-Visual_Basic-black?style=flat-square&logo=Visual_Basic" alt="Visual Basic" />
+  <img src="https://img.shields.io/badge/-C-black?style=flat-square&logo=c" alt="C" />
+  <img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B" alt="C++" />
+  <img src="https://img.shields.io/badge/-Bash_Scripting-black?style=flat-square&logo=gnu-bash" alt="Bash Scripting" />
+  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" alt="Node.js" />
+</p>
+
 
 ## 💡 About Me
 

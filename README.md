@@ -22,7 +22,7 @@
 ### 👑Who am I?
 - 🎓 Software Engineering Maverick
 - 🌍 Based in Accra, Ghana
-- 🚀 Turning caffeine into code since 2022
+- 🚀 Turning caffeine into code since 2017
 - 🤖 Full-stack Developer | Mobile App Enthusiast
 - 🧠 Always Learning, Always Growing
 

@@ -1,261 +1,214 @@
-# 🚀 Ellis Armah Ayikwei | Software Engineer & Tech Entrepreneur
+# 🚀 Ellis Armah Ayikwei | Full-Stack Software Engineer 💻
 
 <p align="center">
-  <img src="https://github.com/Ellis-Ayikwei/Ellis-Ayikwei/blob/main/IMG_7672.JPG" width="300" alt="Ellis Armah Ayikwei" />
-</p>
-
-<p align="center">
-  <b>Building software. Solving real problems. Engineering for scale.</b>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Ellis-Ayikwei">GitHub</a> •
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-  <a href="mailto:ellisarmahayikwei@gmail.com">Email</a>
+  <img src="IMG_7672.JPG" width="300" alt="Ellis Armah Ayikwei" />
 </p>
 
 ---
 
-## 👨🏽‍💻 About Me
+## 🌟 Snapshot
 
-I'm a Software Engineer and Tech Entrepreneur passionate about building reliable software, scalable systems, and products that solve real-world problems.
+**Full-stack engineer building reliable, scalable SaaS products and the infrastructure that keeps them alive.**
 
-My interests go beyond writing code. I enjoy understanding how systems work under the hood, why they fail, and how to architect solutions that remain reliable as they grow.
-
-I work across the software development lifecycle, from designing backend architectures and building intuitive interfaces to deploying applications, managing infrastructure, and integrating AI capabilities.
-
-I'm particularly interested in the intersection of **Software Engineering, Cloud Infrastructure, DevOps, and Artificial Intelligence.**
-
-- 🇬🇭 Based in Accra, Ghana.
-- 💻 Software Engineer | Full-Stack & Backend Development.
-- 🚀 Founder at TradeHut Technologies.
-- ☁️ Cloud Infrastructure, DevOps & Systems Engineering.
-- 🧠 AI/ML, LLM Integrations, RAG & AI Agents.
-- 🛠️ Building SaaS products and solving engineering problems.
+I work across the whole stack: Next.js and React frontends, Django and Flask APIs, Flutter mobile apps, and the Docker, proxy and monitoring layers underneath. I care about system design and about understanding *why* software breaks, so I can build things that don't. Right now I'm going deeper on AI agents, MLOps and DevOps, with Rust on the side.
 
 ---
 
-## ⚙️ Technology Stack
+## 🔧 Tech Stack
 
-### Languages
+**Languages**
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2FC++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/C/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
 </p>
 
-### Frontend & Mobile Development
+**Frontend & Mobile**
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
 </p>
 
-### Backend & APIs
+**Backend**
 
 <p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django_REST-A30000?style=flat&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" />
 </p>
 
-### Databases & Data Infrastructure
+**AI & Data**
 
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare_D1-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" />
 </p>
 
-### DevOps, Cloud & Infrastructure
+**DevOps, Infra & Observability**
 
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white" />
-</p>
-
-### AI & Machine Learning
-
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-</p>
-
-*Areas of interest: LLM integrations, Retrieval-Augmented Generation (RAG), AI agents, model evaluation, local LLMs, and intelligent automation.*
-
-### Development & Productivity Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/HAProxy-106DA9?style=flat" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hetzner-D50C2D?style=flat&logo=hetzner&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white" />
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Projects & Products
+## 👋 About Me
 
-### 1. TradeHut Technologies
-**Founder | Software, AI & Technology Solutions**
+> "Code is not just logic. It's the bridge between people and possibility."
 
-Building technology solutions and digital products through TradeHut Technologies.
-
-- SaaS and custom software development.
-- AI integrations and intelligent automation.
-- Business technology solutions.
-- IT infrastructure and systems support.
-
-### 2. TradeHut Stores
-**E-commerce & Marketplace Platform**
-
-Building a marketplace connecting buyers and sellers, with an emphasis on making product discovery and transactions easier.
-
-- Multi-vendor marketplace architecture.
-- Buyer and seller workflows.
-- Reverse marketplace and seller bidding concepts.
-- Payment integration and reconciliation.
-- Product discovery and order management.
-
-### 3. MoreVans
-**Moving & Transportation Marketplace**
-
-Working on a platform connecting customers with moving and transportation service providers.
-
-- Django and React with TypeScript.
-- PostgreSQL and PostGIS for geospatial data.
-- Redis and WebSockets for real-time functionality.
-- Docker-based deployment infrastructure.
-- Stripe payment integration.
-
-### 4. ScrubiMail
-**Email Validation SaaS**
-
-Building an email validation platform designed to help businesses improve email list quality and reduce avoidable delivery failures.
-
-- Django REST APIs.
-- Redis and Celery background processing.
-- SMTP-based email validation.
-- Bulk processing and API integrations.
-- Cloud deployment and infrastructure management.
-
-### 5. Enterprise Group Business Platform
-**Enterprise Software Engineering**
-
-Contributing to enterprise-grade business applications and internal digital transformation.
-
-- React and TypeScript.
-- Flask backend services.
-- JWT authentication and Azure integration.
-- Docker-based application deployment.
-- Monitoring, metrics and production infrastructure.
+- 🇬🇭 Based in Accra, Ghana
+- 💼 Software Engineer at **Enterprise Life Assurance Ghana**, building group insurance, claims and collections platforms
+- 🏗️ Engineer at **Tradehut Technologies Ghana**, shipping AI-driven, full-stack and SaaS products
+- ⚙️ Engineering since 2017, with 100+ client projects delivered
+- 🧠 Obsessed with system design, failure modes and resilient software
+- 🎯 Long game: senior engineer, then founder building scalable tech companies in Africa
 
 ---
 
-## 🧠 What I'm Currently Exploring
+## 🚨 What I've Been Shipping
 
-I'm continuously expanding my engineering knowledge, particularly in areas that improve how software is designed, built, deployed, and maintained.
+### 📧 ScrubiMail | Email Verification SaaS
+Live product under Tradehut Technologies: an email verification API with real-time and bulk checks on a freemium model.
+- Django + Django REST Framework API, Celery workers and Redis for bulk verification jobs
+- SMTP-level mailbox checks from a dedicated Hetzner server
+- KumoMTA for outbound mail, Mailpit for local mail testing
 
-- **Next.js:** Full-stack React applications, rendering strategies, server components and application architecture.
-- **Rust:** Systems programming, memory safety and performance-oriented software.
-- **AI Engineering:** RAG, agents, MCP, LLM orchestration and evaluation systems.
-- **DevOps:** Kubernetes, Terraform, Ansible and infrastructure automation.
-- **Cloud Architecture:** Serverless applications, distributed systems and scalable infrastructure.
-- **Database Engineering:** Query optimization, data modeling, transactions and database architecture.
-- **Systems Engineering:** Linux, networking, containers and understanding how software interacts with operating systems.
+### 🛒 TradeHut | E-Commerce Marketplace ([thetradehut.com](https://thetradehut.com))
+- Next.js App Router, Tailwind CSS and Redux
+- Mega-menu navigation, faceted product filters and image-based product search
+- 15-category catalogue driven by a single shared category config
+
+### 🏢 Enterprise Group | Group Business Portal
+- React + TypeScript frontend, Flask backend with secure JWT auth and session management
+- Docker Compose with separate staging and production stacks
+- NGINX and HAProxy at the edge, horizontally scaled gunicorn backend, Redis on an internal network
+- Shipped through CI/CD pipelines
+
+### 📱 Production USSD Service | Ghana
+- Django USSD gateway integrating Africa's Talking, Hubtel and Wigal
+- HMAC signature verification, circuit breaker and dead-letter queue
+- Prometheus metrics, Sentry error tracking and Locust load testing
+
+### 🗣️ Local-Language Voice RAG *(in progress, team project)*
+- Self-improving RAG system that speaks Ghanaian local languages, for people who don't speak English
+- Mobile-first, built around self-hostable speech models
+
+### 🧰 More Projects
+
+| Project | What it is |
+|---------|------------|
+| **Tsumi** | Errand-runner app with MoMo, Paystack and escrow payments |
+| **Foundersight** | AI advisor that guides startup founders using LLM reasoning and decision trees |
+| **KKER Sitters** | Django caregiver platform with onboarding, payment-gated profiles and interview requests |
+| **QR Code Generator Pro** | Flutter app with dynamic QR codes, branding and real-time analytics |
+| **Smart Task Manager** | Next.js + TensorFlow.js app with predictive task prioritisation |
+| **MyBasi** | Offline-first client management system for African businesses |
+| **Forex LSTM Bot** | LSTM-based forex trading model built to run 24/7 on a VPS |
+| **Mira Drinks** | Custom Shopify storefront with advanced Liquid, mobile-first |
 
 ---
 
-## 🏗️ Engineering Philosophy
+## 🌱 Currently Learning
 
-I believe good software engineering goes beyond making things work.
-
-I care about:
-
-- Building systems that remain reliable in production.
-- Understanding the underlying technology instead of blindly adopting abstractions.
-- Designing APIs and architectures that are maintainable.
-- Automating repetitive operational processes.
-- Observability, monitoring and debugging.
-- Security, performance and scalability.
-- Choosing simplicity over unnecessary complexity.
-
-**I don't just want to build software that works. I want to understand why it works, how it fails, and how to make it better.**
+- 🦀 **Rust** for systems programming and high-performance services
+- 🧠 **MLOps & AI agents**: taking models from notebook to production
+- 🖥️ **Local LLM inference**: running models efficiently on CPU with Ollama and OpenVINO
+- ☁️ **DevOps & cloud**: deeper infrastructure, observability and scaling on AWS
+- 🕵🏽 **LLM-powered founder tools**: decision-support agents for startups
 
 ---
 
-## 🎓 Certifications & Education
+## 📍 Tools I Work With
 
-- Google IT Support Professional Certificate.
-- Google Digital Marketing & SEO.
-- ALX Software Engineering Programme.
-- Introduction to Artificial Intelligence with Python.
+| 💻 Development | ☁️ DevOps & Infra | 📈 Observability | 🎨 Design |
+|----------------|-------------------|------------------|-----------|
+| Next.js, React, Redux | Docker, Docker Compose | Prometheus, Grafana | Figma |
+| TypeScript, Python, Rust | NGINX, HAProxy | Sentry, Datadog | Photoshop |
+| Django, DRF, Flask, Node.js | GitHub Actions, CI/CD | New Relic | Adobe XD |
+| Celery, Redis | AWS, Hetzner, Cloudflare | Portainer, Cockpit | Visio |
+| Flutter | Proxmox, Linux, Git | | |
+
+---
+
+## 📜 Education & Certifications
+
+- 🎓 BSc Information Technology, Ghana Communications Technology University (2025)
+- 🧪 ALX Software Engineering, Backend Specialization
+- 🔐 ISC2 Certified in Cybersecurity (CC)
+- 🤖 CS50's Introduction to AI with Python (Harvard)
+- 🏅 Google IT Support Professional
+- 🔍 Google Digital Marketing & SEO
 
 ---
 
 ## 🌍 Languages
 
-- 🇬🇧 English
-- 🇬🇭 Ga
-- 🇬🇭 Twi
+- 🇬🇧 English (Native)
+- 🇬🇭 Ga (Native)
+- 🇬🇭 Twi (Fluent)
 
 ---
 
-## 📊 GitHub Statistics
+## 📫 Let's Connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ellis-Ayikwei&show_icons=true&theme=radical&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ellis-Ayikwei&layout=compact&theme=radical&hide_border=true" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ellis-Ayikwei&theme=radical&hide_border=true" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/Ellis-Ayikwei)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ellisarmahayikwei@gmail.com)
 
 ---
 
-## 🤝 Let's Connect
+## 📊 GitHub Stats
 
-<p align="left">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/Ellis-Ayikwei">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:ellisarmahayikwei@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ellis-Ayikwei&show_icons=true&theme=radical&hide_border=true" alt="Ellis's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ellis-Ayikwei&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-<p align="center">
-  <b>Building Daily. Learning Continuously. Engineering Beyond Limits.</b>
-</p>
+## ✨ Fun Fact
+
+**I debug harder than Thanos snaps, but way more productive.**
+When I'm not fixing edge cases or polishing UIs, I'm in the gym lifting heavy. 🏋🏽
+
+---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ellis-Ayikwei&color=blueviolet&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=Ellis-Ayikwei&color=blueviolet" alt="Profile Views" />
 </p>
 
-<!-- Crafted by Ellis Armah Ayikwei -->
+<!---
+Crafted with ❤️ by Ellis Armah Ayikwei
+--->
